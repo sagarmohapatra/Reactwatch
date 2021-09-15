@@ -1,0 +1,14 @@
+.navbar{
+  background-color: blueviolet;
+  padding: 10px;
+  }
+
+  .navbar a{
+    color: white;
+    text-decoration: none;
+    font-size: 5px;
+    font-weight: bold;
+  }
+  .landing{
+    background: white();
+  }
